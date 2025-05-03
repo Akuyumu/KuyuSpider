@@ -1,10 +1,15 @@
 ---
-title: Kuyu's Spiderweb
+title: Crawling around?
 draft: 
 tags:
+  - ContentPage
 ---
-### Welcome!
+## Welcome!
 
 This is my digital garden, to store and share my knowledge on the cloud!
 
 ![[Pasted image 20250503163804.png]]
+
+### About us
+[Student life - NTU undergrad]()
+more to come!
