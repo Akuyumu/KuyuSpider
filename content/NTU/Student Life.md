@@ -5,8 +5,7 @@ draft:
 ---
 ## Hello!
 Here you can find the resources I have accumulated in my undergraduate life in NTU, as a mechatronics student in MAE!
-
-
+![[Pasted image 20250504053452.png]]
 ### Recent resources
 
 | Year of Study | Resources                                                                  |
@@ -25,4 +24,3 @@ Here you can find the resources I have accumulated in my undergraduate life in N
 | #y2s2-CC0006            | [[CC0006 BIBLE]]                                               |
 
 
-![[Pasted image 20250503173050.png]]

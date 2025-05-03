@@ -7,8 +7,6 @@ tags:
 ## Welcome!
 
 This is my digital garden, to store and share my knowledge on the cloud!
-
-![[Pasted image 20250503163804.png]]
-
+![[Pasted image 20250504053333.png]]
 ### About us
 [[Student Life]] - NTU undergraduate
