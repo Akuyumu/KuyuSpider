@@ -2,7 +2,7 @@
 tags:
   - ContentPage
 draft: 
-socialImage: og-image.png
+socialImage: tinkerer.png
 ---
 ## Hello!
 Here you can find the resources I have accumulated in my undergraduate life in NTU, as a mechatronics student in MAE!
