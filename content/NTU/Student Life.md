@@ -2,7 +2,7 @@
 tags:
   - ContentPage
 draft: 
-socialImage: Pasted-image-20250504053452.png
+socialImage: og-image.png
 ---
 ## Hello!
 Here you can find the resources I have accumulated in my undergraduate life in NTU, as a mechatronics student in MAE!

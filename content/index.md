@@ -3,7 +3,7 @@ title: Crawling around?
 draft: 
 tags:
   - ContentPage
-socialImage: Pasted image 20250504053333.png
+socialImage: og-image.png
 ---
 ## Welcome!
 
