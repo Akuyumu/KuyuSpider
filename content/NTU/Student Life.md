@@ -5,7 +5,7 @@ draft:
 ---
 ## Hello!
 Here you can find the resources I have accumulated in my undergraduate life in NTU, as a mechatronics student in MAE!
-![[Pasted image 20250504053452.png]]
+![[Pasted-image-20250504053452.png]]
 ### Recent resources
 
 | Year of Study | Resources                                                                  |
