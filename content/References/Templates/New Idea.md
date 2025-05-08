@@ -1,7 +1,6 @@
 ---
-tags:
-  - published
-status: 
+tags: []
+status:
 ---
 
 ```meta-bind-button
