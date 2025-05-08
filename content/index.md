@@ -8,6 +8,6 @@ socialImage: cutespider.png
 ## Welcome!
 
 This is my digital garden, to store and share my knowledge on the cloud!
-![[Pasted image 20250504053333.png]]
+![[cutespider 1.png]]
 ### About us
 [[Student Life]] - NTU undergraduate
