@@ -14,6 +14,4 @@ status: Ongoing
 3. The [[L298N Dual H-bridge Motor Driver]] is added for the [[Raspberry Pico]] to interface with the [[RS-550 Brushed DC Motor]]
 4. A [[Misc Button]] is added for the user to interface with the product
 	1. eg. *click*(turns on at lowest speed). *clicks*(raise speed). *click*(at max speed turns motor off)
-
-![[CircuitSchematic.pdf]]
-
+![[CircuitSchematic 1.pdf]]
