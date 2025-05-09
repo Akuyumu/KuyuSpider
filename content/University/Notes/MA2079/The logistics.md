@@ -22,4 +22,10 @@ Without the logistics, there will be no product. All our efforts for naught. Her
 | L298N Motor Driver          | [Shopee Link](https://shopee.sg/L298N-driver-board-module-L298-stepper-motor-smart-car-robot-breadboard-peltier-High-Power-Motor-Driver-For-Arduino-i.161750523.5434960766?sp_atk=51751455-35ed-48c0-ab93-c93e36b0d835&xptdk=51751455-35ed-48c0-ab93-c93e36b0d835)              | 1          | $2.30           |
 | Miscellaneous costing       |                                                                                                                                                                                                                                                                                 |            | $5.00           |
 |                             |                                                                                                                                                                                                                                                                                 | **Total:** | $43.35          |
+>[!Note]
+>Miscellaneous costing exists, due to a small quantity of a greater kit being used, resulting in small but hard to estimate costing
 
+**Misc costing involves the following**
+- PLA filament for 3D printing
+- Resistors, wires, capacitors, LEDs
+- Solder, Flux
