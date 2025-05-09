@@ -8,3 +8,5 @@ status: Ongoing
 Voltage: 7.4V, Current: 1.10A, Speed: 10000RPM
 Voltage: 12V, Current: 1.27A, Speed: 15000RPM
 Voltage: 24V, Current: 2.55A, Speed: 30000RPM
+
+![[RS-550.pdf]]

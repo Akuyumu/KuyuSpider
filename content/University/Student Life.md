@@ -19,7 +19,7 @@ Here you can find the resources I have accumulated in my undergraduate life in N
 
 | Semester - Subject Code | Notes                                                          |
 | ----------------------- | -------------------------------------------------------------- |
-| #y2s2-MA2079            | [[Project Model]]<br>[[Project Circuitry]]                     |
+| #y2s2-MA2079            | [[Engineering Innovation & Design - RippleRush]]               |
 | #y2s2-MA2005            | [[Engineering Drawing]]<br>[[Geometric Dimension & Tolerance]] |
 | #y2s2-MA2024            | [[Engineering Materials]]<br>[[Manufacturing processes]]       |
 | #y2s2-MA0218            | [[Data Science]]<br>[[Artificial Intelligence]]                |
