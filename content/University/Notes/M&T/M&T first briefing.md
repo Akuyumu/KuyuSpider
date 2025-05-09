@@ -2,8 +2,6 @@
 tags:
   - y2s3-MnT
 status: Completed
-share_link: https://share.note.sx/1v6wy8d7#MHyv4015sxzqyzhXtzhhx/l+y+Fg8/k9FddROcL4/y0
-share_updated: 2025-04-30T21:02:39+08:00
 ---
 #### Design thinking - to apply
 identify user - empathy - learn about them
