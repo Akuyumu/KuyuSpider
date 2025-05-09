@@ -5,6 +5,7 @@ status: Ongoing
 ---
 ## The Master Plan
 Nothing spells making and tinkering better than a **World Changing Plan**. We will shake the world ... for a small quantity of people.
+
 [Collaboration .docx file](https://entuedu.sharepoint.com/:w:/r/sites/MNTGroup6/Shared%20Documents/General/Ideation%20and%20Research.docx?d=w51b3f11214b7438eb82eaf67d14fa94f&csf=1&web=1&e=FSnlvQ) - For collaborators only
 ### Plan 1: Emergency Flood kit
 In less developed countries, a simple flood can cut off various essentials to life, such as [[Clean Water (Drinkable)]], electricity, and communication channels (landlines). 
