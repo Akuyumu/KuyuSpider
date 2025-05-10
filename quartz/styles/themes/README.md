@@ -1,10 +1,10 @@
-# AnuPpuccin
+# Tokyo Night Storm
 
-[AnuPpuccin](https://github.com/AnubisNekhet)
+[Tokyo Night Storm](https://github.com/arozx)
 
 ## Preview
 
-[Open live preview](https://quartz-themes.github.io/anuppuccin/)
+[Open live preview](https://quartz-themes.github.io/tokyo-night-storm/)
 
 ## Usage
 
@@ -12,7 +12,7 @@
 
 ```yaml
 - name: Fetch Quartz Theme
-  run: curl -s -S https://raw.githubusercontent.com/saberzero1/quartz-themes/master/action.sh | bash -s -- anuppuccin
+  run: curl -s -S https://raw.githubusercontent.com/saberzero1/quartz-themes/master/action.sh | bash -s -- tokyo-night-storm
 ```
 
 ### Manual install
@@ -20,7 +20,7 @@
 ```bash
 curl -s -S -o action.sh https://raw.githubusercontent.com/saberzero1/quartz-themes/master/action.sh
 
-./action.sh anuppuccin
+./action.sh tokyo-night-storm
 ```
 
 ### Install script (Advanced)
@@ -28,5 +28,5 @@ curl -s -S -o action.sh https://raw.githubusercontent.com/saberzero1/quartz-them
 After installing:
 
 ```bash
-npm run theme anuppuccin
+npm run theme tokyo-night-storm
 ```
