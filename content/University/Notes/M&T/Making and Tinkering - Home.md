@@ -13,9 +13,10 @@ In this project, we aim to create a product to benefit humanity.
 
 **Scroll down to learn more!**
 ![[Pasted image 20250510034550.png]]
+### Stage overviews
 
 | Project Stage     | Links                                             |
 | ----------------- | ------------------------------------------------- |
 | Project briefings | [[M&T first briefing]]<br>[[M&T second briefing]] |
 | Project planning  | [[M&T world changing plan]]                       |
-|                   |                                                   |
+| Project logistics |                                                   |

@@ -2,7 +2,7 @@
 tags:
   - y2s2-MA2079
   - ContentPage
-status: Ongoing
+status: Completed
 ---
 ## Welcome to my 1st University Project 
 
@@ -14,9 +14,10 @@ In this project, we aimed to create an all in one gym product for the average gy
 
 ### Project Flow
 
-| Project Stage                   | Links                 |
-| ------------------------------- | --------------------- |
-| Modelling the product           | [[The Model]]         |
-| Planning the circuit schematics | [[The Circuitry]]     |
-| Writing the rasp pico code      | [[The RaspPico Code]] |
-| Ordering the Logistics          | [[The logistics]]     |
+| Project Stage                   | Links                 |     |
+| ------------------------------- | --------------------- | --- |
+| Modelling the product           | [[The Model]]         |     |
+| Planning the circuit schematics | [[The Circuitry]]     |     |
+| Writing the rasp pico code      | [[The RaspPico Code]] |     |
+| Ordering the Logistics          | [[The logistics]]     |     |
+| The final product               | [[The final product]] |     |
