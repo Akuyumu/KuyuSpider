@@ -8,7 +8,7 @@ status: Ongoing
 Here, I document the logistics that went into building our project!
 
 > [!tip] For Collaborators
-> [Logistics List on Teams]([Logistics.docx](https://entuedu.sharepoint.com/:w:/r/sites/MNTGroup6/Shared%20Documents/General/Logistics.docx?d=wd392aab0a31a433b84a8269d9a664a59&csf=1&web=1&e=GqrxYD))
+> [Logistics List on Teams](https://entuedu.sharepoint.com/:w:/r/sites/MNTGroup6/Shared%20Documents/General/Logistics.docx?d=wd392aab0a31a433b84a8269d9a664a59&csf=1&web=1&e=GqrxYD)
 
 ### Full Logistics list
 
