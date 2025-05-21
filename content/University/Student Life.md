@@ -1,7 +1,6 @@
 ---
 tags:
   - ContentPage
-draft: 
 socialImage: tinkerer.png
 ---
 ## Hello!

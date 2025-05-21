@@ -16,9 +16,10 @@ In this project, we aim to create a product to benefit humanity.
 ![[Pasted image 20250510034550.png]]
 ### Stage overviews
 
-| Project Stage     | Links                                                    |     |
-| ----------------- | -------------------------------------------------------- | --- |
-| Project briefings | [[M&T first briefing]]<br>[[M&T second briefing]]        |     |
-| Planning          | [[M&T world changing plan]]<br>[[Relevant Calculations]] |     |
-| Logistics         | [[M&T Logistics]]                                        |     |
-| Execution         | [[MFC & charging circuit]]                               |     |
+| Project Stage     | Links                                                                                  |     |
+| ----------------- | -------------------------------------------------------------------------------------- | --- |
+| Project briefings | [[M&T first briefing]]<br>[[M&T second briefing]]                                      |     |
+| Planning          | [[M&T world changing plan]]<br>[[Relevant Calculations & Equations]]<br>[[M&T Plan A]] |     |
+| Logistics         | [[M&T Logistics]]                                                                      |     |
+| Risk Assessment   | [[M&T Risk Assessment Details]]                                                        |     |
+| Execution         | [[MFC & charging circuit]]                                                             |     |
