@@ -4,6 +4,7 @@ tags:
   - energy
 status: Completed
 ---
+![[Pasted image 20250522025009.png]]
 Microbial Fuel Cells (MFCs) are bio-electrochemical devices that convert chemical energy into electrical energy using bacteria as catalysts. Here's a brief overview:
 
 Key Points:

@@ -10,7 +10,7 @@ Read on to access the details required for the risk assessment done for this pro
 Submit via [Workplaces Risk Assessment System (WRAS)](https://venus.wis.ntu.edu.sg/wras/CommonModule/Home.aspx):
 - Put Leong Hanyang (hyleong@ntu.edu.sg) as the approver
 - Every student must submit his/her own risk assessment individually
-
+(Completed risk assessment goes here)
 ## Submission guide
 ![[Sample Risk Assessments.pdf]]
 

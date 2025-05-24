@@ -14,10 +14,11 @@ In this project, we aimed to create an all in one gym product for the average gy
 
 ### Project Flow
 
-| Project Stage                   | Links                 |     |
-| ------------------------------- | --------------------- | --- |
-| Modelling the product           | [[The Model]]         |     |
-| Planning the circuit schematics | [[The Circuitry]]     |     |
-| Writing the rasp pico code      | [[The RaspPico Code]] |     |
-| Ordering the Logistics          | [[The logistics]]     |     |
-| The final product               | [[The final product]] |     |
+| Project Stage                   | Links                   |     |
+| ------------------------------- | ----------------------- | --- |
+| Modelling the product           | [[The Model]]           |     |
+| Planning the circuit schematics | [[The Circuitry]]       |     |
+| Writing the rasp pico code      | [[The RaspPico Code]]   |     |
+| Ordering the Logistics          | [[The logistics]]       |     |
+| The Business Canvas & Slides    | [[Presenting our Idea]] |     |
+| The final product               | [[The final product]]   |     |
