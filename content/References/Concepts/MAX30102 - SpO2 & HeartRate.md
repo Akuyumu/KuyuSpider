@@ -3,13 +3,15 @@ tags:
   - electronics
 status: Completed
 ---
-#### The MAX30102 is an integrated pulse oximetry and heart-rate monitor biosensor module that includes:
+
+## The MAX30102 is an integrated pulse oximetry and heart-rate monitor biosensor module that includes:
 - Two LEDs (Red and IR)
 - Photodetector
 - Optimized optics
 - Low-noise analog signal processing
 
-#### Key features:
+![[Pasted image 20250527134335.png|300]]
+## Key features:
 1. Main functions:
    - Heart rate monitoring
    - Blood oxygen saturation (SpO2) measurement
@@ -28,5 +30,5 @@ status: Completed
    - Mobile devices
 
 **The main difference from the MAX30105 is that the MAX30102 lacks the green LED and is specifically optimized for pulse oximetry and heart rate monitoring, while not including particle sensing capabilities.**
-#### Datasheet
+## Datasheet
 ![[max30102.pdf]]

@@ -22,4 +22,5 @@ In this project, we aim to create a product to benefit humanity.
 | Planning          | [[M&T world changing plan]]<br>[[Relevant Calculations & Equations]]<br>[[AsthmaAlly - Block diagram plan]] |     |
 | Logistics         | [[M&T Logistics]]                                                                                           |     |
 | Risk Assessment   | [[M&T Risk Assessment Details]]                                                                             |     |
-| Execution         | [[Circuit block diagram]]                                                                                   |     |
+| Execution         | [[Circuit Execution]]<br>[[Machine Learning Model]]<br>[[AsthmaAlly App Development]]                       |     |
+|                   |                                                                                                             |     |
