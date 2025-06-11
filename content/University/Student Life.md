@@ -7,6 +7,7 @@ socialImage: tinkerer.png
 Here you can find the resources I have accumulated in my undergraduate life in NTU, as a mechatronics student in MAE!
 
 ![[tinkerer 1.png]]
+### [[My Curriculum Plan]]
 ### Recent resources
 
 | Year of Study | Resources                                                                  |
