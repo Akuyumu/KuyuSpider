@@ -4,10 +4,10 @@ tags:
 status: Ongoing
 ---
 # Hello!
-Read on to explore the block diagram made to simplify circuitry planning and logistics in the early stages of making the project.
+Read on to explore the circuitry planning and logistics in the early stages of making the project.
 [[Circuit_block_diagram.excalidraw|Excalidraw Link]]
 
-## The Diagram
+## The Block Diagram
 ![[Circuit_block_diagram.excalidraw.png]]
 
 *Power supply edited to be two 400mAh batteries*
@@ -18,7 +18,7 @@ Read on to explore the block diagram made to simplify circuitry planning and log
 	- Integrated LED drivers allows a single 3.3V supply
 - Investigate: Sensor on wrist or finger
 - [[Adafruit Feather nRF52840 Sense]] communicates this data to user's phone via [[Bluetooth Low Energy (BLE)]]
-### The code
+### The Code
 
 ``` C++
 #include <Arduino.h>
@@ -607,3 +607,7 @@ void setupBLE() {
 ## Circuit Schematics
 ![[Asthma Predictor Sensor Array.pdf]]
 
+
+## Breadboard Prototyping
+![[BreadboardChest.jpg]]![[BreadboardWrist.jpg]]
+Check out the data output @ [[Machine Learning & Data Processing]]
