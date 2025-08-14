@@ -3,24 +3,29 @@ tags:
   - ContentPage
 socialImage: tinkerer.png
 ---
-## Hello!
+# Hello!
 Here you can find the resources I have accumulated in my undergraduate life in NTU, as a mechatronics student in MAE!
 
 ![[tinkerer 1.png]]
 ### [[My Curriculum Plan]]
-### Recent resources
+## Recent resources
 
 | Year of Study | Resources                                                                  |
 | ------------- | -------------------------------------------------------------------------- |
 | Year 2        | - [[MA2005 Resources]]<br>- [[MA2011 Resources]]<br>- [[MA2024 Resources]] |
-| Year 3        | - To be released                                                           |
+| Year 3        | - [[PI Resources]]                                                         |
 
-### Recent notes
+
+## Recent notes
 
 | Semester - Subject Code | Notes                                                          |
 | ----------------------- | -------------------------------------------------------------- |
+| #y3s1-MA3001            | [[MA3001 Machine Element Design - Home]]                       |
+| #y3s1-MA3010            | [[MA3010 Thermodynamics & Heat Transfer - Home]]               |
+| #y3s1-MA3005            | [[MA3005 Control Theory - Home]]                               |
+| #y3s1-MA4832            | [[MA4832 Microprocessor Systems - Home]]                       |
 | #y2s3-MnT               | [[Making and Tinkering - Home]]                                |
-| #y2s2-MA2079            | [[Engineering Innovation & Design - Home]]               |
+| #y2s2-MA2079            | [[Engineering Innovation & Design - Home]]                     |
 | #y2s2-MA2005            | [[Engineering Drawing]]<br>[[Geometric Dimension & Tolerance]] |
 | #y2s2-MA2024            | [[Engineering Materials]]<br>[[Manufacturing processes]]       |
 | #y2s2-MA0218            | [[Data Science]]<br>[[Artificial Intelligence]]                |

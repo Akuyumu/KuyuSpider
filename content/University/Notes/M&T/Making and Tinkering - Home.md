@@ -16,11 +16,11 @@ In this project, we aim to create a product to benefit humanity.
 ![[Pasted image 20250510034550.png]]
 ### Stage overviews
 
-| Project Stage     | Links                                                                                                       |     |
-| ----------------- | ----------------------------------------------------------------------------------------------------------- | --- |
-| Project briefings | [[M&T first briefing]]<br>[[M&T second briefing]]<br>[[3D printing - M&T Lab]]<br>[[Soldering - M&T Lab]]   |     |
-| Planning          | [[M&T world changing plan]]<br>[[Relevant Calculations & Equations]]<br>[[AsthmaAlly - Block diagram plan]] |     |
-| Logistics         | [[M&T Logistics]]                                                                                           |     |
-| Risk Assessment   | [[M&T Risk Assessment Details]]                                                                             |     |
-| Execution         | [[Circuit Execution]]<br>[[Machine Learning & Data Processing]]<br>[[AsthmaAlly App Development]]           |     |
-|                   |                                                                                                             |     |
+| Project Stage     | Links                                                                                                                       |     |
+| ----------------- | --------------------------------------------------------------------------------------------------------------------------- | --- |
+| Project briefings | [[M&T first briefing]]<br>[[M&T second briefing]]<br>[[3D printing - M&T Lab]]<br>[[Soldering - M&T Lab]]                   |     |
+| Planning          | [[M&T world changing plan]]<br>[[Relevant Calculations & Equations]]<br>[[AsthmaAlly - Block diagram plan]]                 |     |
+| Logistics         | [[M&T Logistics]]                                                                                                           |     |
+| Risk Assessment   | [[M&T Risk Assessment Details]]                                                                                             |     |
+| Execution         | [[Circuit Execution]]<br>[[Machine Learning & Data Processing]]<br>[[AsthmaAlly App Development]]<br>[[Modelling & Design]] |     |
+|                   |                                                                                                                             |     |

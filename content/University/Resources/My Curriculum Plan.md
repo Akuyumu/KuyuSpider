@@ -67,30 +67,41 @@ Follow this link to access the course requirements:
 | Semester Special | Course Code | Type | Course Title       | AU  |
 | ---------------- | ----------- | ---- | ------------------ | --- |
 |                  | PS5888      | BDE  | MAKING & TINKERING | 4.0 |
-🧒 - I'm here
+|                  |             |      |                    |     |
 
 ---
 ### Year 3
-| Semester 1 | Course Code | Type | Course Title                        | AU  |
-| ---------- | ----------- | ---- | ----------------------------------- | --- |
-|            | MA3001      | C    | MACHINE ELEMENT DESIGN              | 3.0 |
-|            | MA3002      | C    | SOLID MECHANICS AND VIBRATION       | 3.0 |
-|            | MA3004      | C    | MATHEMATICAL METHODS IN ENGINEERING | 3.0 |
-|            | MA3005      | C    | CONTROL THEORY                      | 3.0 |
-|            | MA3010      | C    | THERMODYNAMICS AND HEAT TRANSFER    | 3.0 |
-|            | MA3071      | C    | ENGINEERING EXPERIMENTS (ME)        | 1.0 |
-|            | MA4832      | MPE  | MICROPROCESSOR SYSTEMS              | 3.0 |
-| **TOTAL**  |             |      |                                     | 19  |
+| Semester 1 | Course Code | Type | Course Title                     | AU  |
+| ---------- | ----------- | ---- | -------------------------------- | --- |
+|            | MA3001      | C    | MACHINE ELEMENT DESIGN           | 3.0 |
+|            | MA3005      | C    | CONTROL THEORY                   | 3.0 |
+|            | MA3010      | C    | THERMODYNAMICS AND HEAT TRANSFER | 3.0 |
+|            | MA3071      | C    | ENGINEERING EXPERIMENTS (ME)     | 1.0 |
+|            | MA4832      | MPE  | MICROPROCESSOR SYSTEMS           | 3.0 |
+|            | EG5003      | BDE  | PRODUCT DEVELOPMENT CHALLENGE    | 3.0 |
+|            | HN5010      | BDE  | SPORE: IMAGINING THE NEXT 50Y    | 3.0 |
+| **TOTAL**  |             |      |                                  | 19  |
+🧒 - I'm here
 
 ---
 
 | Semester 2 | Course Code | Type | Course Title            | AU   |
 | ---------- | ----------- | ---- | ----------------------- | ---- |
 |            | MA3920      | FC   | PROFESSIONAL INTERNSHIP | 10.0 |
+|            | MOOC        |      |                         |      |
+
+---
+### Year 4
+
+
+| Semester 1 | Course Code | Type | Course Title                                   | AU  |
+| ---------- | ----------- | ---- | ---------------------------------------------- | --- |
+|            | EE5083      | BDE  | FROM PASSION TO ACTION: SIX STEPS TO A STARTUP | 3.0 |
+
 ## AU Sum
 
 |                 | Core | MPE | CC  | FC  | BDE | Sum |
 | --------------- | ---- | --- | --- | --- | --- | --- |
-| **Current**     | 49   | 0   | 17  | 3   | 4   | 73  |
+| **Current**     | 59   | 3   | 17  | 3   | 10  | 92  |
 | **REQUIREMENT** | 79   | 6   | 17  | 15  | 18  | 135 |
 

@@ -198,6 +198,7 @@ void FillSensorBuffer() {
 - Stretch of lower rib cage during breathing stretches [[Adafruit Conductive Rubber Sheet]], increasing it's resistance, creating a potential difference across a potential divider
 - This P.D. is theoretically related to the stretch and thus related to the breath quantity
 - This data will be calibrated to accurately represent the user's breathing via calibration in app, normalising the P.D. to the fully exhaled data and fully inhaled data
+- An [[CMA-4544PF-W Electret Microphone]] together with a [[MAX4466 Microphone Amplifier]] is attached to a stethoscope to analyse internal breathing sounds as well, sending amplitude and frequency data back to the [[Adafruit Feather nRF52840 Sense]] for analysis. Primarily trying to catch the high pitch sound of [[Wheezing MedlinePlus Medical Encyclopedia|Wheezing]]. ==(Latest addition!)==
 - The [[Adafruit Feather nRF52840 Sense]] reads this data and sends this data together with sound and motion data from its inbuilt sound sensor and accelerometer to the user's phone via [[Bluetooth Low Energy (BLE)]], UART communication protocol
 ### The Code
 
