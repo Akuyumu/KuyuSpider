@@ -16,7 +16,7 @@ Finals: 60%
 - Open book
 ## Notes
 [[Basics of ARM Microprocessor]]
-
+[[Basics of ARM Memory]]
 
 ## Resources
 Check out [[MA4832 Resources]]!

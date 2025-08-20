@@ -10,9 +10,11 @@ Welcome to the documentation of my learning in MA2024, where we learn about the 
 
 ## Course Details
 CA: 40%
+
 Finals: 60%
 ## Notes
 [[Engineering Materials]]
+
 [[Manufacturing processes]]
 
 ## Resources

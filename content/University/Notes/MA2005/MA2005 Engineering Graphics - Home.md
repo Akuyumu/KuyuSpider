@@ -11,9 +11,11 @@ Welcome to the documentation of my learning in MA2005, where we learn about CAD 
 ## Course Details
 CA: 50%
 - 50% - Weekly CA
+
 Finals: 50%
 ## Notes
 [[Engineering Drawing]]
+
 [[Geometric Dimension & Tolerance]]
 
 ## Resources

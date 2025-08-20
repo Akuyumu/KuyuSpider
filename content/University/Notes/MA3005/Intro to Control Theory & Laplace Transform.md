@@ -30,18 +30,53 @@ status: Ongoing
 ---
 # Application of Control Theory
 ## Dynamic Analysis
+Determination of response of a plant to commands, disturbances and changes in plant parameter
 ## Control System Design
+If dynamic analysis is unsatisfactory and modification of plant is unacceptable, design phase in necessary to select control elements needed to improve dynamic performance to acceptable level
 ## Method of Analysis
+1. Consider system performance in time domain by measuring output response for given input
+2. Frequency domain - output response to sinusoidal input is considered in steady state only if transient is allowed to subside before measurement ends
 ## Requirement of Control Theory
+1. Stability
+2. Accuracy - in terms of errors
+	1. Error - steady state - due to static friction as output ceases to move
+	2. Error - can reverse sign, overshoot due to energy
+3. Speed of response
+
+> [!NOTE]- Stability and accuracy are incompatible
+> A good design is a compromise of both
 
 ---
 # Systems Classification
 ## Stationary vs Non-stationary System
-## Linear vs Non-linear system
+Non stationary
+- differential / difference eq have one or more coefficients as functions of time
+
+Stationary
+- differential / difference eq only have constant coefficient
+## Linear vs non linear systems
+- principle of superposition holds
 ## Lumped parameter vs Distributed parameter
+Physical characteristics are assumed to concentrate in one or more lumps, independent of spatial distribution
+
+E.g:
+
+| ==bodies==           | rigid          | elastic                |
+| -------------------- | -------------- | ---------------------- |
+| ==spring==           | massless       | have distributed mass  |
+| ==electrical leads== | resistanceless | distributed resistance |
+
 ## Continuous vs Discrete variable system
 
+| all system variables are continuous function of time | has one or more variable known only at a particular instant of time |
+| ---------------------------------------------------- | ------------------------------------------------------------------- |
+| describing equations are differential equations      | equations are difference equations                                  |
+|                                                      | e.g. time interval controlled sampled data system                   |
+
+
 ---
+# Laplace transforms
+
 # References
 ![[1-2-Laplace Transform & Block Diagrams-FT- Sem1-2025-26-ver3.pdf]]
 
