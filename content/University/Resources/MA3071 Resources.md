@@ -9,18 +9,21 @@ status: Ongoing
 
 [[E3.1_TB03_CorneliusTong_U1921516C.pdf]]
 
-[[Experiment E3.1 Logsheet.docx]]
-
+[[Experiment E3.1 Logsheet.pdf]]
 # E3.2
 [[E3.2 by Ming Chun.pdf]]
+
 [[E3.2 Er Chen Kang (U1921042D).pdf]]
+
 [[E3.2 Report.pdf]]
-[[E3.2 Vibration of a 2-DOF System(1).pdf]]
+
 [[E3.2 Vibration of a 2-DOF System.pdf]]
 
 # E3.3
 [[E3.3 lab manual v3 no logsheet.pdf]]
+
 [[E3.3 Logsheet and Plots RTF_Jun22.pdf]]
+
 [[e3.3.pdf]]
 
 # E3.4
@@ -39,6 +42,14 @@ status: Ongoing
 [[E3.7_E3.7AE COMPUTER-AIDED DESIGN ON FUSION360 V5 Sep 2023.pdf]]
 [[E3.7_E3.7AE COMPUTER-AIDED DESIGN ON FUSION360.pdf]]
 ## Fusion360 videos
+```embed
+title: "Folder - Google Drive"
+image: "https://ssl.gstatic.com/docs/doclist/images/empty_state_empty_folder.svg"
+description: ""
+url: "https://drive.google.com/drive/folders/1QhmOR8tmeTduuyfDz0IGSI1JnWAqkTMU?usp=sharing"
+favicon: ""
+aspectRatio: "100"
+```
 
 
 # Misc content 
