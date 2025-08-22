@@ -4,10 +4,12 @@ tags:
 status: Ongoing
 ---
 # E3.1
-[[E3.1 Dynamic Vibration Absorber 24.pdf]]
-[[E3.1 Dynamic Vibration Absorber.pdf]]
+
 [[E3.1 Dynamic Vibration Absorber_Trevor Chiang.pdf]]
+
 [[E3.1_TB03_CorneliusTong_U1921516C.pdf]]
+
+[[Experiment E3.1 Logsheet.docx]]
 
 # E3.2
 [[E3.2 by Ming Chun.pdf]]
@@ -37,14 +39,7 @@ status: Ongoing
 [[E3.7_E3.7AE COMPUTER-AIDED DESIGN ON FUSION360 V5 Sep 2023.pdf]]
 [[E3.7_E3.7AE COMPUTER-AIDED DESIGN ON FUSION360.pdf]]
 ## Fusion360 videos
-[[Video1 - Introduction.mp4]]
-[[Video2a - Modelling.mp4]]
-[[Video2b - Optimization.mp4]]
-[[Video3a - Simulation.mp4]]
-[[Video3b - Collaboration.mp4]]
-[[Video4a - Assembly.mp4]]
-[[Video4b - RearWheelAnimation.mp4]]
-[[Video4c - Submission.mp4]]
+
 
 # Misc content 
 Idk what these are but perhaps they will be useful to you
