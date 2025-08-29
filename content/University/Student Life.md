@@ -8,6 +8,7 @@ Here you can find the resources I have accumulated in my undergraduate life in N
 
 ![[tinkerer 1.png]]
 ### [[My Curriculum Plan]]
+[MAE SLOA Application form](https://forms.cloud.microsoft/r/gukrWLtZ9Z)
 ## Recent resources
 
 | Year of Study | Resources                                                                                                                                |
@@ -22,6 +23,7 @@ Here you can find the resources I have accumulated in my undergraduate life in N
 
 | Semester - Subject Code | Notes                                                               |
 | ----------------------- | ------------------------------------------------------------------- |
+| #y3s1-EG5003            | [[EG5003 Product Development Challenge - Home]]                     |
 | #y3s1-MA3001            | [[MA3001 Machine Element Design - Home]]                            |
 | #y3s1-MA3010            | [[MA3010 Thermodynamics & Heat Transfer - Home]]                    |
 | #y3s1-MA3005            | [[MA3005 Control Theory - Home]]                                    |

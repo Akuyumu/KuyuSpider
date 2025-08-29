@@ -1,7 +1,7 @@
 ---
 tags:
   - y3s1-MA4832
-status: Ongoing
+status: Completed
 ---
 # Course Overview
 ## The aims of this module are to:
@@ -55,9 +55,13 @@ Non stationary
 Stationary
 - differential / difference eq only have constant coefficient
 ## Linear vs non linear systems
-- principle of superposition holds
+Linear - Solution linearly related to inputs
+
+Non-Linear - contain nonlinear terms (e.g. quadratic)
 ## Lumped parameter vs Distributed parameter
-Physical characteristics are assumed to concentrate in one or more lumps, independent of spatial distribution
+Lumped parameter - ordinary differential equations
+
+Distributed parameter - partial differential equations
 
 E.g:
 
@@ -76,6 +80,116 @@ E.g:
 
 ---
 # Laplace transforms
+Let F(s) be the Laplace transform of f(t),
+$$
+ \mathcal{L}\{f\} = F(s) = \int_0^{\infty} e^{-st} f(t) \, dt
+$$
+Where,
+$$
+s = \sigma + j\omega 
+$$
+Then,
+$$
+\mathcal{L}\left\{\frac{df}{dt}\right\} = sF(s) - f(0)
+$$
+$$
+\mathcal{L}\left\{\frac{d^2f}{dt^2}\right\} = s^2F(s) - sf(0) - \frac{df}{dt}(0)
+$$
+$$
+\mathcal{L}\left\{\frac{d^nf}{dt^n}\right\} = s^nF(s) - \sum_{i=1}^{n} s^{n-i} \left[\frac{d^{i-1}f}{dt^{i-1}}\right]
+$$
+## Shift theorum
+- In automatic control systems, it is known as dead time
+- In the process industry, it is known as transport lag
+$$
+\mathcal{L}\{e^{-at} f(t)\} = F(s + a)
+$$
+$$
+\mathcal{L}\{f(t + a)\} = e^{as} F(s)
+$$
+## Convolution theorum
+- The convolution theorum is the product of 2 Laplace transforms to form the Laplace transform of the convolution integral
+- $\tau$ is known as the dummy time variable
+$$
+\mathcal{L}^{-1}\{X(s)Y(s)\} = \int_0^t x(t-\tau)y(\tau) \, d\tau
+$$
+$$
+= \int_0^t y(t-\tau)x(\tau) \, d\tau
+$$
+## Final Value Theorum (for this course)
+*Useful in determining steady state accuracy*
+$$
+\lim_{t \to \infty} f(t) = \lim_{s \to 0} sF(s)
+$$
+## Initial Value Theorum
+*Useful in Inverse transform when initial condition is known to be zero*
+$$
+\lim_{t \to 0^+} f(t) = \lim_{s \to \infty} sF(s)
+$$
+---
+# Laplace transform table
+![[Pasted image 20250824215608.png]]
+
+- *Those in the boxes will be used*
+- *Those in the green box is provided in the final exam*
+
+> [!tip]- Expand for partial fraction recap!
+> ![[Pasted image 20250825190542.png]] 
+
+---
+# Inverse Laplace Transform for complex conjugate roots
+Given a Laplace transform as a fraction:
+$$
+\begin{align}
+Y(s) &= \frac{C}{[s - (a + jb)][s - (a - jb)](s - r_1)} \\
+&= \frac{C}{(s^2 - 2as + a^2 + b^2)(s - r_1)} \\
+&= \frac{Ks}{s^2 - 2as + a^2 + b^2} + \frac{K_1}{s - r_1}
+\end{align}
+$$
+Where:
+- $C$, $K$ and $K_1$ are constants
+- $(a\pm jb)$ are the complex conjugate roots
+- $(s-r_1)$ is the remaining root
+
+The general form of the inverse transformation for the above Laplace transformation with complex conjugate roots $(Y(s))$ is:
+$$
+y(t) = \frac{1}{b}|K(a + jb)|e^{at}\sin(bt + \alpha) + K_1 e^{r_1 t}
+$$
+
+Where:
+- $\alpha$ is the angle from the polar form of $K(a+jb)$
+
+The response term is just the general form without the $K_1$ term:
+$$
+\begin{align}
+y(t) &= \frac{1}{b}|K(a + jb)|e^{at}\sin(bt + \alpha) \\
+&= \frac{1}{b}e^{at}|K(a + jb)|(\cos\alpha \sin bt + \sin\alpha \cos bt) \\
+&= \frac{1}{b}e^{at}(A \sin bt + B \cos bt)
+\end{align}
+$$
+
+Where:
+- $A = |K(a + jb)| \cos \alpha$
+- $B = |K(a + jb)| \sin \alpha$
+
+> [!tip]- Expand this for examples!
+> Method 1
+> ![[Pasted image 20250825210718.png]]
+> ![[Pasted image 20250825210733.png]]
+> ![[Pasted image 20250825210746.png]]
+> Method 2
+> ![[Pasted image 20250825210827.png]]
+> ![[Pasted image 20250825210839.png]]
+> ![[Pasted image 20250825210851.png]]
+
+---
+# Percentage Overshoot
+$$\text{Percentage overshoot} = e^{-\frac{\pi\zeta}{\sqrt{1-\zeta^2}}}$$
+
+---
+# Spring damper system
+sorry i got lazy here, here's a screenshot
+![[Pasted image 20250825211048.png]]
 
 # References
 ![[1-2-Laplace Transform & Block Diagrams-FT- Sem1-2025-26-ver3.pdf]]

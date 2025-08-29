@@ -31,26 +31,23 @@ status: Ongoing
 
 # E3.5
 [[E3.5 Heat Exchanger_Manual and Log Sheet.pdf]]
+
 [[E3.5 Heat Exchanger_Manual and Log Sheet_updated on 18 Aug 2020.pdf]]
+
 [[E3.5 Heat exchanger_slides (Theory).pdf]]
 
 # E3.6
 [[E3.6 Log Sheet_SOH YOONG HONG (ME35).pdf]]
+
 [[E3.6 Transient heat conduction .pdf]]
+
 [[MA3071 E3.6 Report.pdf]]
 # E3.7
 [[E3.7_E3.7AE COMPUTER-AIDED DESIGN ON FUSION360 V5 Sep 2023.pdf]]
+
 [[E3.7_E3.7AE COMPUTER-AIDED DESIGN ON FUSION360.pdf]]
 ## Fusion360 videos
-```embed
-title: "Folder - Google Drive"
-image: "https://ssl.gstatic.com/docs/doclist/images/empty_state_empty_folder.svg"
-description: ""
-url: "https://drive.google.com/drive/folders/1QhmOR8tmeTduuyfDz0IGSI1JnWAqkTMU?usp=sharing"
-favicon: ""
-aspectRatio: "100"
-```
-
+[Video Files - Hosted on Google Drive](https://drive.google.com/drive/folders/1QhmOR8tmeTduuyfDz0IGSI1JnWAqkTMU?usp=sharing)
 
 # Misc content 
 Idk what these are but perhaps they will be useful to you
