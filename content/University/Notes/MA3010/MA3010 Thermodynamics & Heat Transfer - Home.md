@@ -15,6 +15,7 @@ CA: 40%
 Finals: 60%
 ## Notes
 [[2nd Law of Thermodynamics]]
+[[Entropy]]
 
 ## Resources
 Check out [[MA3010 Resources]]!

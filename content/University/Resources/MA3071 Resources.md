@@ -20,12 +20,11 @@ status: Ongoing
 [[E3.2 Vibration of a 2-DOF System.pdf]]
 
 # E3.3
-[[E3.3 lab manual v3 no logsheet.pdf]]
+[[E3.3 Logsheet and Plots.pdf]]
 
-[[E3.3 Logsheet and Plots RTF_Jun22.pdf]]
+[[E3.3 (reference).pdf]]
 
-[[e3.3.pdf]]
-
+[[E3.3 Logsheet DylanPhua.pdf]]
 # E3.4
 [[MA3071 - P3.4 Formal Report.pdf]]
 
