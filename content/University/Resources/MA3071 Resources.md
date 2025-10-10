@@ -31,8 +31,10 @@ status: Ongoing
 # E3.5
 [[E3.5 Heat Exchanger_Manual and Log Sheet.pdf]]
 
+## Logsheet
 [[E3.5 Heat Exchanger_Manual and Log Sheet_updated on 18 Aug 2020.pdf]]
 
+## Slides
 [[E3.5 Heat exchanger_slides (Theory).pdf]]
 
 # E3.6

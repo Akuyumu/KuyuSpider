@@ -19,6 +19,6 @@ Finals: 50%
 ## Notes
 [[Introduction to Machine Element Design]]
 [[Belt Drive Design]]
-
+[[Chain Drives Design]]
 ## Resources
 Check out [[MA3001 Resources]]!

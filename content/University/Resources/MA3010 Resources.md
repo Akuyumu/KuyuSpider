@@ -9,6 +9,10 @@ status: Ongoing
 [[MA3010_quiz3.pdf]]
 [[MA3010_quiz4.pdf]]
 [[MA3010_quiz5.pdf]]
+
+> [!NOTE]- Expand for my answers for quiz 5
+>![[Pasted image 20250919224424.png]]
+
 [[MA3010_quiz7.pdf]]
 [[MA3010_quiz10.pdf]]
 [[MA3010_quiz11.pdf]]

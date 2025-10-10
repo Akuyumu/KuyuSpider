@@ -3,6 +3,9 @@ tags:
   - y3s1-MA3010
 status: Completed
 ---
+# Recap on Prerequisites
+![[Thermodynamics Revision.pdf]]
+
 The 2nd Law of thermodynamics is all about the efficiency of heat transfer processes
 # Thermal Energy Reservoirs
 Hypothetical body with a relatively large ==thermal energy capacity (mass x specific heat)== that can absorb/supply finite amounts of heat without undergoing any change in temperature.

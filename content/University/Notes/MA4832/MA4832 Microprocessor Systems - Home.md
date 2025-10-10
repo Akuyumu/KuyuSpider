@@ -16,7 +16,11 @@ Finals: 60%
 - Open book
 ## Notes
 [[Basics of ARM Microprocessor]]
+
 [[Basics of ARM Memory]]
 
+[[Data Representation]]
 ## Resources
 Check out [[MA4832 Resources]]!
+
+I gave up on my notes after week 2 so please refer to…

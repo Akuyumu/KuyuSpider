@@ -54,6 +54,11 @@ Its normally 32 - 38°, smaller than the 40° of the belt
 $$
 \text{SR(Speed Ratio)}=\frac{\eta_1}{\eta_2}=\frac{\omega_1}{\omega_2}=\frac{R_2}{R_1}=\frac{D_2}{D_1}
 $$
+## Belt speed
+$$
+v_b = R_1 \omega_1 = R_2 \omega_2 = R_1 \eta_1 = R_2 \eta_2
+$$
+
 ![[Pasted image 20250815011947.png]]
 ## Belt drive geometry
 $$
@@ -85,7 +90,7 @@ $$
 ---
 # Guidelines for Design of Belt Drives
 1) Belt speed > 33m/s requires special sheaves
-	1) Belt speed < 5m/s consider other drives
+	1) Belt speed < 5m/s consider other drives/gears
 2) Max speed ratio = 3.0
 3) Angle of contact on Smaller Pulley > 120° to avoid slipping
 4) Recommended centre distance: $D_2<C<3(D_2+D_1)$
@@ -97,6 +102,7 @@ $$
 # Selection of Belts & Sheaves
 1) Select minimum belt cross section
 2) Select standard pulley sizes (pitch diameter)
+	1) Any belt speed between 5 & 33 m/s is ideal
 3) Specify belt pitch length
 4) Determine the number of belts required
 $$
@@ -106,7 +112,7 @@ $$
 $$
 \text{Design Power}=\text{service factor}*\text{actual drive power (KW)}
 $$
-Service factor - from ==Table A-2==  
+Service factor - from ==Table A-2== (Appendix A) 
 Actual drive power - power requirement of driven machine  
 
 ![[Pasted image 20250815010158.png]]
@@ -115,7 +121,7 @@ The actual configuration of the belt drive can be different from that used by th
 $$
 \text{Corrected Rated Power}=C_\theta C_L*\text{Rated Power}
 $$
-- Rated power - standard value from manufacturer power rating table
+- Rated power - standard value from manufacturer power rating tabler
 - Cθ & CL - from ==table A-5 & A-6==
 
 ---
@@ -128,7 +134,7 @@ For typical applications, the tight and slack tensions F1 and F2 are assumed to 
 
 ---
 # References
-![[MA3001 Part 1 - Intro & Belt Drives July 2019.pdf]]
+![[MA3001 Part 1 - Intro & Belt Drives July 2019.pdf]] 
 
 ---
 Return to [[MA3001 Machine Element Design - Home]]

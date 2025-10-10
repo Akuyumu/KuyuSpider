@@ -16,6 +16,7 @@ Finals: 60%
 ## Notes
 [[2nd Law of Thermodynamics]]
 [[Entropy]]
+[[Gas Mixtures]]
 
 ## Resources
 Check out [[MA3010 Resources]]!
